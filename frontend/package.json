@@ -1,7 +1,7 @@
 {
   "name": "frontend",
   "version": "0.1.0",
-  "nomeEmpresa": "Whaticket",
+  "nomeEmpresa": "Owen Talk",
   "versionSystem": "2.1.8",
   "private": true,
   "dependencies": {
